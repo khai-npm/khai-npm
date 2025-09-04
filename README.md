@@ -1,6 +1,6 @@
 # Hi, I'm An 👨‍💻
-🔹 Backend Developer | Python | Node.js  
-🔹 Yêu thích xây dựng hệ thống tối ưu & dễ mở rộng  
+🔹 Backend Developer
+
 
 ## 🚀 Skills
 **Languages**  
