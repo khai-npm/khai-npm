@@ -1,9 +1,11 @@
 # Hi, I'm Khai 👨‍💻
-🔹 Backend Developer
+🔹 Backend developer with hands-on experience in building REST APIs, working with SQL/NoSQL databases, and containerizing applications using
+    Docker. Eager to contribute to scalable system design and continuously learn new technologies.
 
+📫 connect: [Email](manhkhai2606@gmail.com)
 
 ## 🚀 Skills
-**Languages**  
+**Programing Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
@@ -43,4 +45,3 @@
 
 
 
-📫 connect: [Email](manhkhai2606@gmail.com)
