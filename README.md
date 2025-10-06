@@ -24,7 +24,8 @@
 
 ## Github Stat 
 
-![Khai-npm's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark)
+[![Khai-npm's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khai-np,)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📫 connect: [Email](manhkhai2606@gmail.com)
