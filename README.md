@@ -24,8 +24,16 @@
 
 ## Github Stat 
 
-[![Khai-npm's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khai-npm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khai-npm&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+</div>
 
 
 📫 connect: [Email](manhkhai2606@gmail.com)
