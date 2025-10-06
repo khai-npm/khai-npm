@@ -18,6 +18,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)
 
+**Github Stat**
+![Khai-npm's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark)
+
 ## 🌟 Featured Projects
 - [Manga Mystery box Backend - Capstone project](https://github.com/khai-npm/sep490_manga_mystery_box_pybe) – backend for Manga Mystery Box webapp
 - [RND - doi(intern project)](https://github.com/khai-npm/rnd-doi) – backend for internal lunch ordering app
