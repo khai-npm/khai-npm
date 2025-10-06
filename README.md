@@ -18,10 +18,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)
 
-## 🌟 Featured Projects
-- [Manga Mystery box Backend - Capstone project](https://github.com/khai-npm/sep490_manga_mystery_box_pybe) – backend for Manga Mystery Box webapp
-- [RND - doi(intern project)](https://github.com/khai-npm/rnd-doi) – backend for internal lunch ordering app
-
 ## Github Stat 
 
 <div align="center">
@@ -34,6 +30,17 @@
 </a>
 
 </div>
+
+### 🌟 Featured Projects
+
+🚀 [**Manga Mystery Box Backend** – Capstone Project](#)
+> Backend site - realtime communication portal for Manga Mystery Box.  
+> 🧰 Stack: Python, FastAPI, MongoDB, Docker.
+
+🍱 [**RND - DOI (Intern Project)**](#)
+> Backend for Internal Launch Ordering Apps.  
+> 🧰 Stack: Python, FastAPI, MongoDB, Docker.
+
 
 
 📫 connect: [Email](manhkhai2606@gmail.com)
