@@ -22,7 +22,7 @@
 - [Manga Mystery box Backend - Capstone project](https://github.com/khai-npm/sep490_manga_mystery_box_pybe) – backend for Manga Mystery Box webapp
 - [RND - doi(intern project)](https://github.com/khai-npm/rnd-doi) – backend for internal lunch ordering app
 
-  **Github Stat**
+## Github Stat 
 
 ![Khai-npm's GitHub stats](https://github-readme-stats.vercel.app/api?username=khai-npm&show_icons=true&theme=dark)
 
